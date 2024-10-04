@@ -1,6 +1,6 @@
 
-from service.api.routes.tfidf import tfidf_route
-from service.api.routes.word2vec import word2vec_route
+from routes.tfidf import tfidf_route
+from routes.word2vec import word2vec_route
 
 from fastapi.routing import APIRouter
 
