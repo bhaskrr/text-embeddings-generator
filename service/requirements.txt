@@ -1,7 +1,7 @@
 fastapi==0.115.0
-gensim==4.3.3
-nltk==3.9.1
-numpy==2.1.1
-scikit_learn==1.5.2
-scipy==1.14.1
+gensim
+nltk
+numpy
+scikit_learn
+scipy
 starlette
