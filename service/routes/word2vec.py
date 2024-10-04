@@ -1,5 +1,5 @@
 import time
-from ...core.preprocessor import Preprocessor
+from core.preprocessor import Preprocessor
 from fastapi.routing import APIRouter
 
 from gensim.models import Word2Vec

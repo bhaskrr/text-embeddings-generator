@@ -1,5 +1,5 @@
 from scipy.sparse import coo_matrix
-from ...core.preprocessor import Preprocessor
+from core.preprocessor import Preprocessor
 from fastapi.routing import APIRouter
 from sklearn.feature_extraction.text import TfidfVectorizer
 
